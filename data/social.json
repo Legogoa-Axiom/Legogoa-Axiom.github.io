@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/legogoa",
+      "image": "images/social/facebook.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/legogoa-axiom",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/@legogoa447",
+      "image": "images/social/youtube.svg"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/ftclegogoa/",
+      "image": "images/social/instagram.svg"
+    }
+  ]
+}
